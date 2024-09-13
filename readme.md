@@ -8,7 +8,7 @@
 [webdeveloper bd official]
 (https://webdeveloperbd.net)
 
-![webdeveloperbdofficial]
+![webdeveloper bd official]
 (F:\Online_Training\Boot_camp_javaScript\Github_project\pic.png)
 
 - Tracking files with git
