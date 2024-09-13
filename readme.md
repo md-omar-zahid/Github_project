@@ -8,9 +8,6 @@
 [webdeveloper bd official]
 (https://webdeveloperbd.net)
 
-![webdeveloper bd official]
-(F:\Online_Training\Boot_camp_javaScript\Github_project\pic.png)
-
 - Tracking files with git
 - contributinng in open source project
 - Markdown overview
